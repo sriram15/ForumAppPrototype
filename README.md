@@ -3,16 +3,14 @@
 Created using Flutter, I am learning about this amazing framework and creating UI for generic Forum application
 
 
-# Screen Images
+# Login Screen
+<img src="flutter_02.png" width="200"/>
 
-# Login Screen 
-![Image of login screen](flutter_02.png)
+# Home Screen
+<img src="flutter_01.png" width="200"/>
 
 # Forum Screen
-![Image of login screen](flutter_01.png)
-
-# Forum Details
-![Image of login screen](flutter_03.png)
+<img src="flutter_03.png" width="200"/>
 
 ## Getting Started
 
