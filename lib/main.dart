@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
          '/forum': (BuildContext context) => new ForumPage(title: 'Forum',),
          '/forum/1': (BuildContext context) => new ForumDetailPage(),
       },
-      initialRoute: '/forum/1',
+      initialRoute: '/',
     );
   }
 }
